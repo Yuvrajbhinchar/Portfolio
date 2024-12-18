@@ -2,6 +2,7 @@ function Navbar(){
 
     return(
         <>
+            {/* Main Div */}
             <div className="w-full h-24 bg-black">
                 <div className="flex justify-evenly pt-8">
                 <div className="text-white font-extrabold">
